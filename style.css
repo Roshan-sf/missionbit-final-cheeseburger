@@ -1,0 +1,18 @@
+.fakeButton{
+border: 2px solid #6CBDFF;
+color: white;
+padding: 8px;
+text-decoration: none;
+border-radius: 10px;
+transition: .5s;
+}
+
+.fakeButton:hover {
+	background-color: #6CBDFF;
+	color: #272BCC;
+}
+
+body {
+	background-color: #272BCC; 
+	color: white;
+}
