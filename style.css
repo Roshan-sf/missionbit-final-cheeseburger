@@ -12,12 +12,26 @@ transition: .5s;
 	color: white;
 }
 
+.buttoncrap {
+	padding-top: ;
+	padding-left: : ;
+}
+
+.old-fart {
+	background-image: url('http://www.calvinandhobbes.com/wp-content/uploads/2016/09/about_main_image1.png');
+}
+
+.row {
+	display: flex;
+	align-items: center;
+}
+
 body {
-	background-image: url('http://www.calvinandhobbes.com/wp-content/uploads/2016/09/about_main_image1.png'); 
 	color: black;
 	text-align: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	width: 100%;
 }
 
 h1 {
@@ -29,3 +43,14 @@ h1 {
 	top: 50%;
 	position:absolute;
 }
+
+.imgcenter {
+	margin: 0 auto;
+	background-image: url(./1-1.png);
+	transform: scale(1.5);
+	margin-top: 10%;
+	height: 200px;
+	width: 200px;
+	background-size: cover;
+}
+
