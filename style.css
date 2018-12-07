@@ -125,5 +125,6 @@ h1 {
 	position: absolute;
 }
 
-
-
+.back {
+	background-image: url('https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ch/large_rec-201701251556.jpg');
+}
